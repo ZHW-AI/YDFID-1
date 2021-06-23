@@ -1,5 +1,5 @@
 # YDFID-1
-Yarn-dyed Fabric Image Dataset Version1，色织物图像数据集第一版
+Yarn-dyed Fabric Image Dataset Version1，色织物图像数据集第一版 (For the English version, please open README_ENG.md)
 
 ——张宏伟西安工程大学人工智能课题组
 
