@@ -8,6 +8,7 @@ Yarn-dyed Fabric Image Dataset Version1
 The Yarn-dyed Fabric Image Dataset Version1, collated and open source by Zhang Hongwei Artificial Intelligence Laboratory, School of Electronic and Information Engineering, Xi 'an Polytechnic University, contains 17 patterns, as shown in Figure 1. This data set contains a total of 3189 images of non-defective samples and 312 images of defective samples with a resolution of 512×512×3. Some of the defective samples are shown in Figure 2.
 
 ![image](https://user-images.githubusercontent.com/86339216/123088667-9b247380-d458-11eb-9b37-5c6a385739b9.png)
+
 Figure 1 Samples of 17 flower patterns
 
 ![image](https://user-images.githubusercontent.com/86339216/123088703-a4addb80-d458-11eb-9312-b73a3119ec25.png)
