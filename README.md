@@ -17,7 +17,7 @@ Yarn-dyed Fabric Image Dataset Version1，色织物图像数据集第一版
 
 色织物数据集Version1放于YFDⅠ文件夹中，包含Simple Lattices（简单方格类），Stripe Patterns（条纹类）和Complex Lattices（复杂方格类）三大类花型。这三大类花型分别放置于三个文件夹，依次命名为SL，SP，CL。其中SL由7个子文件夹组成，CL由6个子文件夹组成，SP由4个子文件夹组成，总结构图如图3所示。
 
-![图3](https://user-images.githubusercontent.com/86339216/123066426-a5d40e00-d442-11eb-905b-a39e758b4282.jpg)
+![图3](https://user-images.githubusercontent.com/86339216/123086029-85fa1580-d455-11eb-94fc-f153e370d535.jpg)
 
 图3 数据集总体文件结构图
 
