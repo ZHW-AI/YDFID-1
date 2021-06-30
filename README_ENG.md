@@ -29,13 +29,15 @@ Figure 4 SL1 sample file structure diagram
 
 # 2．Data set acquisition
 
-It is not easy to collect the data set. There are the following two requirements for downloading the data set. Please understand if it brings you any inconvenience. After our review, we will send you the download link via email:
+It is not easy to collect the data set. This data set is free to share, but there are the following two requirements. Please understand if it brings you any inconvenience. After our review, we will send you the download link via email:
 
 1. Email your application to hwzhang@xpu.edu.cn.
 
 Title of mail: Please use "Fabric data set access". It is a fixed form and a special mark that distinguishes it from other messages.
 
-Body of mail: Your organization or institution; The main work you are currently doing; The purpose of the data set.
+Body of mail: Your name;Your organization or institution;The main work you are currently doing;The purpose of the data set;Commitment:(1) Do not privately spread the data set; (2) post the CSDN or Github link of our data set in the article or introduce the data set when referring to the articles in our article list for comparative experiments; (3) agree to quote the text and text of the proof of the article after the article is published; (4) This data set is only used for academic research.It is strictly prohibited to be used for commercial purposes or commercial dissemination, otherwise the research group reserves the right to pursue the case.
+
+Your email address: We will send the link and extract password to your email address.
 
 2. If you are using the data set for publication, please cite the following articles:
 
