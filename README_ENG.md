@@ -47,7 +47,7 @@ Your email address: We will send the link and extract password to your email add
 
 [3] ZHANG Hongwei,ZHANG Weiwei,XIONG Wenbo,et al.Defect detection of yarn-dyed fabric based on memory denoising convolutional auto-encoder[J].Basic Sciences Journal of Textile Universities,2022,35(2):-.
 
-[4]ZHANG Hongwei,MI Hongmin,LU Shuai,et al.Defect detection of yarn-dyed fabric based on generative adversarial networks[J].Journal of Xi’an Polytechnic University,2022,36(1):-.
+[4] ZHANG Hongwei,MI Hongmin,LU Shuai,et al.Defect detection of yarn-dyed fabric based on generative adversarial networks[J].Journal of Xi’an Polytechnic University,2022,36(1):-.
 
 # 3．Team to introduce
 
