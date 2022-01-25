@@ -41,11 +41,13 @@ Yarn-dyed Fabric Image Dataset Version1，色织物图像数据集第一版 (For
 
 2. 如果您将数据集用于文章的发表，请引用以下几篇文章：
 
-[1] H. W. Zhang, Q. L. Tan, S. Lu, Z. Q. Ge, and J. Xu, “Yarn-dyed shirt piece defect detection based on an unsupervised reconstruction model of the U-shaped denoising convolutional auto-encoder,” J. Xidian Univ., vol.48, no.3, pp.1-9, 2021.
+[1] ZHANG Hongwei, TAN Quanlu, LU Shuai, et al. Yarn-dyed shirt piece defect detection based on an unsupervised reconstruction model of the U-shaped denoising convolutional auto-encoder [J]. Journal of Xidian University, 2021, 48(03): 123-130.
 
-[2] H. W. Zhang, S. T. Liu, S. Lu, D. Gu, and D. Yan, “Defect detection of yarn-dyed fabric based on multi-scale convolutional auto-encoder,” Basic Sci. J. Text. Univ., vol.34, no.2, pp.36-42, 2021.
+[2] ZHANG Hongwei,LIU Shuting,LU Shuai,et al.Defect detection of yarn-dyed fabric based onmulti-scale convolutional encoder[J].Basic Sciences Journal of Textile Universities,2021,34(2):45-51.
 
-[3] H. W. Zhang, W. B. Tang, L. J. Zhang, Z. Q. Ge, and D. Gu, “Defect Detection of Yarn-dyed Shirts Based on Denoising Convolutional Self-encoder,” IEEE Data Driven Control Learn. Syst. Conf. (DDCLS), pp.1263-1268, 2019.
+[3] ZHANG Hongwei,ZHANG Weiwei,XIONG Wenbo,et al.Defect detection of yarn-dyed fabric based on memory denoising convolutional auto-encoder[J].Basic Sciences Journal of Textile Universities,2022,35(2):-.
+
+[4] ZHANG Hongwei,MI Hongmin,LU Shuai,et al.Defect detection of yarn-dyed fabric based on generative adversarial networks[J].Journal of Xi’an Polytechnic University,2022,36(1):-.
 
 # 关于我们
 
