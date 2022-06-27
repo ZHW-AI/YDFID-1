@@ -1,9 +1,9 @@
 # YDFID-1
-Yarn-dyed Fabric Image Dataset Version1
+Yarn-Dyed Fabric Image Dataset Version1
 
 ——Zhang Hongwei, Artificial Intelligence Research Group, Xi 'an Polytechnic University
 
-# 1．Introduction to Version1 of color fabric sample dataset
+# 1．Introduction to Version1 of yarn-dyed fabric sample dataset
 
 The Yarn-dyed Fabric Image Dataset Version1, collated and open source by Zhang Hongwei Artificial Intelligence Laboratory, School of Electronic and Information Engineering, Xi 'an Polytechnic University, contains 17 patterns, as shown in Figure 1. This data set contains a total of 3189 images of non-defective samples and 312 images of defective samples with a resolution of 512×512×3. Some of the defective samples are shown in Figure 2.
 
