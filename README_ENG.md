@@ -1,3 +1,14 @@
+# YDFID-2
+Yarn-Dyed Fabric Image Dataset Version2
+
+——Zhang Hongwei, Artificial Intelligence Research Group, Xi 'an Polytechnic University
+
+# 1．Introduction to Version2 of yarn-dyed fabric sample dataset
+
+The Yarn-dyed Fabric Image Dataset Version2, collated and open source by Zhang Hongwei Artificial Intelligence Laboratory, School of Electronic and Information Engineering, Xi 'an Polytechnic University, contains 19 patterns. This data set contains a total of 3500 images of non-defective samples and 330 images of defective samples with a resolution of 512×512×3. 
+
+![YDFID-2](https://user-images.githubusercontent.com/86339216/175955805-efef8d29-6faf-4c57-bf21-f847bc2d34c2.png)
+
 # YDFID-1
 Yarn-Dyed Fabric Image Dataset Version1
 
@@ -5,27 +16,27 @@ Yarn-Dyed Fabric Image Dataset Version1
 
 # 1．Introduction to Version1 of yarn-dyed fabric sample dataset
 
-The Yarn-dyed Fabric Image Dataset Version1, collated and open source by Zhang Hongwei Artificial Intelligence Laboratory, School of Electronic and Information Engineering, Xi 'an Polytechnic University, contains 17 patterns, as shown in Figure 1. This data set contains a total of 3189 images of non-defective samples and 312 images of defective samples with a resolution of 512×512×3. Some of the defective samples are shown in Figure 2.
+The Yarn-Dyed Fabric Image Dataset Version1, collated and open source by Zhang Hongwei Artificial Intelligence Laboratory, School of Electronic and Information Engineering, Xi 'an Polytechnic University, contains 17 patterns, as shown in Figure 1. This data set contains a total of 3189 images of non-defective samples and 312 images of defective samples with a resolution of 512×512×3. Some of the defective samples are shown in Figure.
 
 ![image](https://user-images.githubusercontent.com/86339216/123088667-9b247380-d458-11eb-9b37-5c6a385739b9.png)
 
-Figure 1 Samples of 17 flower patterns
+Samples of 17 flower patterns
 
 ![image](https://user-images.githubusercontent.com/86339216/123088703-a4addb80-d458-11eb-9312-b73a3119ec25.png)
 
-Figure 2 Color fabric defect samples
+Yarn-dyed fabric defect samples
 
-The Yarn-dyed Fabric Image Dataset Version1, located in the YDFID-1 folder, contains three major types of Simple Lattices, Stripe Patterns, and Complex Lattices. These three types of flowers are placed in three folders, named SL, SP and CL in turn.SL contains 7 types of flowers and is composed of 7 subfolders, CL contains 6 types of flowers and is composed of 6 subfolders, and SP contains 4 types of flowers and is composed of 4 subfolders. The summary composition is shown in Figure 3.
+The Yarn-dyed Fabric Image Dataset Version1, located in the YDFID-1 folder, contains three types of Simple Lattices, Stripe Patterns, and Complex Lattices. These three types of patterns are placed in three folders, named SL, SP and CL in turn.SL contains 7 types of flowers and is composed of 7 subfolders, CL contains 6 types of flowers and is composed of 6 subfolders, and SP contains 4 types of flowers and is composed of 4 subfolders. The summary composition is shown in Figure.
 
 ![image](https://user-images.githubusercontent.com/86339216/123088740-b1323400-d458-11eb-9a63-2954c3740722.png)
 
-Figure 3 Overall file structure diagram of the dataset
+Overall file structure diagram of the dataset
 
-The data set file for each color fabric pattern contains two subfolders: train and test. The training data are defect-free samples placed in the defect-free folder; The test data are Defect-free samples Defect samples and Ground Truth markings of defect area. Taking the SL1 pattern as an example, its folder structure diagram is shown in Figure 4.
+The data set file for each color fabric pattern contains two subfolders: train and test. The training data are defect-free samples placed in the defect-free folder; The test data are Defect-free samples Defect samples and Ground Truth markings of defect area. Taking the SL1 pattern as an example, its folder structure diagram is shown in Figure.
 
 ![图4](https://user-images.githubusercontent.com/86339216/123088822-cd35d580-d458-11eb-908d-681f9c22f31b.jpg)
 
-Figure 4 SL1 sample file structure diagram
+SL1 sample file structure diagram
 
 # 2．Data set acquisition
 
