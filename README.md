@@ -1,3 +1,18 @@
+# YDFID-2
+Yarn-Dyed Fabric Image Dataset Version2，色织物图像数据集第二版 (For the English version, please open README_ENG.md)
+
+——张宏伟西安工程大学人工智能课题组
+
+# 色织物样本数据集Version2简介
+
+色织物样本数据集Version2由西安工程大学电子信息学院张宏伟人工智能课题组整理并开源，共有19种花型。该数据集共包含无缺陷样本图像3500张，缺陷样本图像330张，图像的分辨率为512×512×3。
+色织物数据集Version2放于YDFID-1文件夹中，包含Simple Lattices（简单方格类），Stripe Patterns（条纹类）和Complex Lattices（复杂方格类）三类花型。这三类花型分别放置于三个文件夹，依次命名为SL，SP，CL。其中SL由9个子文件夹组成，CL由6个子文件夹组成，SP由4个子文件夹组成，总结构如图所示。
+
+![YDFID-2](https://user-images.githubusercontent.com/86339216/175951521-8f55361c-eaaf-4c5d-acd1-3d8ba33a4f87.png)
+
+YDFID-2数据集总体文件结构图
+
+
 # YDFID-1
 Yarn-dyed Fabric Image Dataset Version1，色织物图像数据集第一版 (For the English version, please open README_ENG.md)
 
@@ -5,27 +20,27 @@ Yarn-dyed Fabric Image Dataset Version1，色织物图像数据集第一版 (For
 
 # 色织物样本数据集Version1简介
 
-色织物样本数据集Version1由西安工程大学电子信息学院张宏伟人工智能课题组整理并开源，共有17种花型，如图1所示。该数据集共包含无缺陷样本图像3189张，缺陷样本图像312张，图像的分辨率为512×512×3，部分缺陷样本如图2所示。
+色织物样本数据集Version1由西安工程大学电子信息学院张宏伟人工智能课题组整理并开源，共有17种花型，如图1所示。该数据集共包含无缺陷样本图像3189张，缺陷样本图像312张，图像的分辨率为512×512×3。
 
 ![图1](https://user-images.githubusercontent.com/86339216/123066362-92c13e00-d442-11eb-9dcd-b021d7dc9b55.jpg)
 
-图1 17种花型样本图
+17种花型样本图
 
 ![图2](https://user-images.githubusercontent.com/86339216/123066678-dfa51480-d442-11eb-9e6d-bec3d2baf43f.jpg)
 
-图2 色织物缺陷样本
+色织物缺陷样本
 
-色织物数据集Version1放于YFDⅠ文件夹中，包含Simple Lattices（简单方格类），Stripe Patterns（条纹类）和Complex Lattices（复杂方格类）三大类花型。这三大类花型分别放置于三个文件夹，依次命名为SL，SP，CL。其中SL由7个子文件夹组成，CL由6个子文件夹组成，SP由4个子文件夹组成，总结构图如图3所示。
+色织物数据集Version1放于YDFID-1文件夹中，包含Simple Lattices（简单方格类），Stripe Patterns（条纹类）和Complex Lattices（复杂方格类）三类花型。这三类花型分别放置于三个文件夹，依次命名为SL，SP，CL。其中SL由7个子文件夹组成，CL由6个子文件夹组成，SP由4个子文件夹组成，总结构如图所示。
 
 ![图3](https://user-images.githubusercontent.com/86339216/123086029-85fa1580-d455-11eb-94fc-f153e370d535.jpg)
 
-图3 数据集总体文件结构图
+YDFID-1数据集总体文件结构图
 
 每种色织物花型的数据集文件包含训练集train和测试集test两个子文件夹。其中，训练集为无缺陷样本,放置于defect-free文件夹；测试集为无缺陷样本defect-free、有缺陷样本defect及标记缺陷区域的ground truth。以SL1花型为例，它的文件结构图如图4所示。
 
 ![图4](https://user-images.githubusercontent.com/86339216/123067333-7a055800-d443-11eb-834f-d0621078927f.jpg)
 
-图4 SL1样本文件结构图
+SL1花型文件结构图
 
 # 数据集获取：
 
