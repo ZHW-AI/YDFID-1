@@ -53,6 +53,7 @@ Your email address: We will send the link and extract password to your email add
 2. If you are using the data set for publication, please cite the following articles:
 
 [1] Zhang Hongwei, Liu Shuting, Tan Quanlu, Lu Shuai, Yao Le, Ge Zhiqiang. Colour-patterned fabric defect detection based on an unsupervised multi-scale U-shaped denoising convolutional autoencoder model. Coloration Technology, 2022. DOI:10.1111/cote.12609.
+
 [2] Zhang Hongwei, Zhang Weiwei, Wang Yang, Lu Shuai, Yao Le, Chen Xia. Colour-patterned fabric-defect detection using unsupervised and memorial defect-free features. Coloration Technology, 2022. DOI:10.1111/cote.12624.
 
 [3] ZHANG Hongwei, TAN Quanlu, LU Shuai, et al. Yarn-dyed shirt piece defect detection based on an unsupervised reconstruction model of the U-shaped denoising convolutional auto-encoder [J]. Journal of Xidian University, 2021, 48(03): 123-130.
