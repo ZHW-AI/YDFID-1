@@ -56,13 +56,17 @@ SL1花型文件结构图
 
 2. 如果您将数据集用于文章的发表，请引用以下几篇文章：
 
-[1] ZHANG Hongwei, TAN Quanlu, LU Shuai, et al. Yarn-dyed shirt piece defect detection based on an unsupervised reconstruction model of the U-shaped denoising convolutional auto-encoder [J]. Journal of Xidian University, 2021, 48(03): 123-130.
+[1] Zhang Hongwei, Liu Shuting, Tan Quanlu, Lu Shuai, Yao Le, Ge Zhiqiang. Colour-patterned fabric defect detection based on an unsupervised multi-scale U-shaped denoising convolutional autoencoder model. Coloration Technology, 2022. DOI:10.1111/cote.12609.
 
-[2] ZHANG Hongwei,LIU Shuting,LU Shuai,et al.Defect detection of yarn-dyed fabric based onmulti-scale convolutional encoder[J].Basic Sciences Journal of Textile Universities,2021,34(2):45-51.
+[2] Zhang Hongwei, Zhang Weiwei, Wang Yang, Lu Shuai, Yao Le, Chen Xia. Colour-patterned fabric-defect detection using unsupervised and memorial defect-free features. Coloration Technology, 2022. DOI:10.1111/cote.12624.
 
-[3] ZHANG Hongwei,ZHANG Weiwei,XIONG Wenbo,et al.Defect detection of yarn-dyed fabric based on memory denoising convolutional auto-encoder[J].Basic Sciences Journal of Textile Universities,2022,35(2):-.
+[3] ZHANG Hongwei, TAN Quanlu, LU Shuai, et al. Yarn-dyed shirt piece defect detection based on an unsupervised reconstruction model of the U-shaped denoising convolutional auto-encoder [J]. Journal of Xidian University, 2021, 48(03): 123-130.
 
-[4] ZHANG Hongwei,MI Hongmin,LU Shuai,et al.Defect detection of yarn-dyed fabric based on generative adversarial networks[J].Journal of Xi’an Polytechnic University,2022,36(1):-.
+[4] ZHANG Hongwei, LIU Shuting,LU Shuai,et al.Defect detection of yarn-dyed fabric based onmulti-scale convolutional encoder[J].Basic Sciences Journal of Textile Universities,2021,34(2):45-51.
+
+[5] ZHANG Hongwei, ZHANG Weiwei,XIONG Wenbo,et al.Defect detection of yarn-dyed fabric based on memory denoising convolutional auto-encoder[J].Basic Sciences Journal of Textile Universities,2022,35(2):-.
+
+[6] ZHANG Hongwei, MI Hongmin,LU Shuai,et al.Defect detection of yarn-dyed fabric based on generative adversarial networks[J].Journal of Xi’an Polytechnic University,2022,36(1):-.
 
 # 关于我们
 
