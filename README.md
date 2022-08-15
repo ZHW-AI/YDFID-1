@@ -64,9 +64,9 @@ SL1花型文件结构图
 
 [4] ZHANG Hongwei, LIU Shuting,LU Shuai,et al.Defect detection of yarn-dyed fabric based onmulti-scale convolutional encoder[J].Basic Sciences Journal of Textile Universities,2021,34(2):45-51.
 
-[5] ZHANG Hongwei, ZHANG Weiwei,XIONG Wenbo,et al.Defect detection of yarn-dyed fabric based on memory denoising convolutional auto-encoder[J].Basic Sciences Journal of Textile Universities,2022,35(2):-.
+[5] ZHANG Hongwei, ZHANG Weiwei,XIONG Wenbo,et al.Defect detection of yarn-dyed fabric based on memory denoising convolutional auto-encoder[J].Basic Sciences Journal of Textile Universities,2022,35(2):64-71.
 
-[6] ZHANG Hongwei, MI Hongmin,LU Shuai,et al.Defect detection of yarn-dyed fabric based on generative adversarial networks[J].Journal of Xi’an Polytechnic University,2022,36(1):-.
+[6] ZHANG Hongwei, MI Hongmin,LU Shuai,et al.Defect detection of yarn-dyed fabric based on generative adversarial networks[J].Journal of Xi’an Polytechnic University,2022,36(1):1-9.
 
 # 关于我们
 
