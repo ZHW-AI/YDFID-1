@@ -8,6 +8,9 @@ Yarn-Dyed Fabric Image Dataset Version3，色织物图像数据集第三版 (For
 色织物样本数据集Version3由西安工程大学电子信息学院张宏伟人工智能课题组整理并开源，共有30种花型。该数据集共包含无缺陷样本图像5095张，缺陷样本图像428张，图像的分辨率为512×512×3。
 色织物数据集Version3放于YDFID-3文件夹中，包含Simple Lattices（简单方格类），Stripe Patterns（条纹类）和Complex Lattices（复杂方格类）三类花型。这三类花型分别放置于三个文件夹，依次命名为SL，SP，CL。其中SL由10个子文件夹组成，CL由10个子文件夹组成，SP由10个子文件夹组成，总结构如图所示。
 
+<img width="616" alt="f24723d1bcef38ad2c461e86ba305db" src="https://github.com/ZHW-AI/YDFID-1/assets/86339216/c597d827-5e5c-4c46-b162-c1fc62d3f59e">
+
+
 ![YDFID-3](https://user-images.githubusercontent.com/86339216/175951521-8f55361c-eaaf-4c5d-acd1-3d8ba33a4f87.png)
 
 YDFID-3数据集总体文件结构图
