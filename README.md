@@ -11,8 +11,6 @@ Yarn-Dyed Fabric Image Dataset Version3，色织物图像数据集第三版 (For
 <img width="616" alt="f24723d1bcef38ad2c461e86ba305db" src="https://github.com/ZHW-AI/YDFID-1/assets/86339216/c597d827-5e5c-4c46-b162-c1fc62d3f59e">
 
 
-![YDFID-3](https://user-images.githubusercontent.com/86339216/175951521-8f55361c-eaaf-4c5d-acd1-3d8ba33a4f87.png)
-
 YDFID-3数据集总体文件结构图
 
 
